@@ -33,7 +33,7 @@ export default function Home( { apipaths } ) {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          This is Backend project for SE104.N11
+          This is Backend project for SE100.O12
         </h1>
 
         <p className={styles.description}>
